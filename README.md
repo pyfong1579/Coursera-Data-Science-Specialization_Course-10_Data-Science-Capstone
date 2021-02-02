@@ -9,11 +9,11 @@ Relevant Links: Week 2 Milestone report. (https://rpubs.com/pyfong/720438)
 
 Runbook
 1. Data provided from (https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip is preloaded into (./data/).
-2. Defined functions are stored in (./ R.script.sources/)
-    2.1 ./R.script.sources/funs_dataprep.R - collection of functions for preparation and displaying of data.
-    2.2 ./R.script.sources/funs_display.R - function for showing analysis of data esp. n-gram frequencies.
-    2.3 ./R.script.sources/server.R - Shiny server side functions.
-    2.4 ./R.script.sources/ui.R - Shiny input/output user interface.
-    2.5 ./R.script.sources/prediction.R - the prediction script.
-    2.6 ./R.script.sources/test_prediction.R - manual testing scripts.
-    2.7 ./R.script.sources/validation.R - accuracy testing with validation data
+2. Defined functions are stored in (./ R.script.sources/)\
+    2.1 ./R.script.sources/funs_dataprep.R - collection of functions for preparation and displaying of data.\
+    2.2 ./R.script.sources/funs_display.R - function for showing analysis of data esp. n-gram frequencies.\
+    2.3 ./R.script.sources/server.R - Shiny server side functions.\
+    2.4 ./R.script.sources/ui.R - Shiny input/output user interface.\
+    2.5 ./R.script.sources/prediction.R - the prediction script.\
+    2.6 ./R.script.sources/test_prediction.R - manual testing scripts.\
+    2.7 ./R.script.sources/validation.R - accuracy testing with validation data.\
