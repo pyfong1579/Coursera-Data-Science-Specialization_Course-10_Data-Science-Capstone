@@ -1,0 +1,50 @@
+/* Change colors */
+body {
+    background-color: lightblue;
+    color: black; /* text color */
+    padding: 1cm;
+}
+
+/* Bold h4*/
+h2 {
+    font-weight: bold;
+}
+
+/* Bold h4*/
+h4 {
+    font-weight: bold;
+}
+
+/* Change indent on ordered list*/
+ol {
+    padding:0;
+}
+
+/* Change linespacing in paragraphs */
+p {
+    margin: auto;
+}
+
+/* padding the divs */
+div {
+    padding: 20px 10px;
+}
+
+/* text format for inputs */
+.shiny-input-container {
+    color: black;
+}
+
+/* text format for output text */
+.shiny-text-output {
+    font-size: large;
+    font-weight: bold;
+    color: #0000CD;
+}
+
+/* text format for output table */
+.shiny-table-output {
+    padding: 0;
+    font-size: large;
+    font-weight: bold;
+}
