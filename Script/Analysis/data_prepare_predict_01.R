@@ -17,7 +17,7 @@ twitter <- readLines(here("Data", "en_US", "en_US.twitter.txt"), encoding = "UTF
 
 # Sample and combine data.
 set.seed(1357) # Repeatable sampling.
-samplesize <- 0.05
+samplesize <- 0.1
 blogs_smp <- sample(blogs, length(blogs) * samplesize)
 news_smp <- sample(news, length(news) * samplesize)
 twitter_smp <- sample(twitter, length(twitter) * samplesize)

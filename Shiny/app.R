@@ -35,9 +35,11 @@ ui <- fluidPage(
             h4("Links:"),
             tags$a(href="https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip", "Capstone Dataset"),
             tags$br(),
-            tags$a(href="https://github.com/pyfong1579/Coursera-Data-Science-Specialization_Course-10_Data-Science-Capstone", "GitHub Repo"),
+            tags$a(href="http://rpubs.com/pyfong/720438", "Week 2 Milestone Report"),
             tags$br(),
-            tags$a(href="www.Rpubs.com", "Rpubs Presentation")
+            tags$a(href="http://github.com/pyfong1579/Coursera-Data-Science-Specialization_Course-10_Data-Science-Capstone", "GitHub Repo"),
+            tags$br(),
+            tags$a(href="http://rpubs.com/pyfong/725950", "Rpubs Presentation")
             
         ),
 
