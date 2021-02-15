@@ -6,9 +6,10 @@ The Key partners for this project are Swiftkey and Coursera.
 The project explores the Natural Language Processing facet of Data Science where a large text corpus of documents will be used to predict the next word on a preceding input in an interactive web application.
 
 Relevant Links:  
-* Week 2 Milestone report. (https://rpubs.com/pyfong/720438).
-* Week 8 Final Report. (https://rpubs.com/pyfong/999999).
-* Pitch Slides. (https://rpubs.com/pyfong/999999).
+* Link: [Capstone Dataset](https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip) - Week 1 Data Source. 
+* Link: [Report](https://rpubs.com/pyfong/720438) - Week 2 Milestone report.
+* Link: [Predictor App](https://pyfong.shinyapps.io/WordPredict/) -Week 7 Word Predictor Shiny App.
+* Link: [2021 Word Predictor](https://rpubs.com/pyfong/725950) - Week 7 Pitch Slides.
 
 Runbook
 1. Data provided from (https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip is preloaded into (./Data/).
